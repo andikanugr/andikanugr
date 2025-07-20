@@ -51,15 +51,15 @@ Welcome to my GitHub profile! I'm a passionate backend developer with strong exp
 - **[Change Collection](https://github.com/andikanugr/collect-changes)** - Deployment tracking and change management system
 
 ### 📊 Monitoring & Observability
-- **[New Relic Condition Collector](https://github.com/andikanugr/newrelic-condition-collector)** - Go-based tool for New Relic alert management
-- **[DevCamp Observability Challenge](https://github.com/andikanugr/devcamp-challenge-observability)** - Hands-on observability implementation
-- **[CDC with Debezium](https://github.com/andikanugr/cdc-debezium)** - Change Data Capture implementation for real-time data streaming
+- **[New Relic Condition Collector](https://github.com/andikanugr/newrelic-condition-collector)** - Go-based tool for automated New Relic alert management
+- **[DevCamp Observability Challenge](https://github.com/andikanugr/devcamp-challenge-observability)** - Hands-on observability implementation with metrics and logging
+- **[CDC with Debezium](https://github.com/andikanugr/cdc-debezium)** - Change Data Capture implementation for real-time data streaming and monitoring
 
 ### 🏗️ Backend Applications
-- **[DevCamp Backend 2022](https://github.com/andikanugr/devcamp-backend-2022)** - Go-based backend service (9 ⭐)
+- **[DevCamp Backend 2022](https://github.com/andikanugr/devcamp-backend-2022)** - Go-based backend service with microservices architecture (9 ⭐)
 - **[Clean Architecture with Go](https://github.com/andikanugraha11/clean-arch-dika-go-with-chi)** - Clean architecture implementation using Go and Chi router
-- **[Banking System](https://github.com/andikanugraha11/gigih-bank)** - JavaScript-based banking application
-- **[Go Boilerplate](https://github.com/andikanugraha11/go-boilerplate)** - Production-ready Go project template
+- **[Banking System](https://github.com/andikanugraha11/gigih-bank)** - JavaScript-based banking application with transaction management
+- **[Go Boilerplate](https://github.com/andikanugraha11/go-boilerplate)** - Production-ready Go project template with best practices
 
 ### 🎓 Educational & Design Patterns
 - **[Design Patterns in Go](https://github.com/andikanugraha11/design-pattern)** - Implementation of various design patterns
